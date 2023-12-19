@@ -1,8 +1,6 @@
 # Análisis de Vulnerabilidad - OWASP M4
 
-
-*Autor: Daisy Rodriguez Costa*
-*Fecha: [19/12/2023]*
+![Imagen de Portada](portada.png)
 
 ---
 ## Índice
