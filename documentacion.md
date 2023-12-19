@@ -106,3 +106,4 @@ En conclusión, la Validación de entrada/salida insuficiente no solo representa
 ## Bibliografía
 
 1. OWASP. (2023). "OWASP Top Ten." Disponible en: [https://owasp.org/www-project-mobile-top-10/2023-risks/m4-insufficient-input-output-validation](https://owasp.org/www-project-mobile-top-10/2023-risks/m4-insufficient-input-output-validation)
+2. Guia de pruebas OWASP Apartado 4.8 pag 200 para adelante [https://owasp.org/www-pdf-archive/Gu%C3%ADa_de_pruebas_de_OWASP_ver_3.0.pdf](https://owasp.org/www-pdf-archive/Gu%C3%ADa_de_pruebas_de_OWASP_ver_3.0.pdf)
